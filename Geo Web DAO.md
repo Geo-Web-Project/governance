@@ -10,8 +10,11 @@ The Geo Web DAO is necessarily launched with concentration in control and permis
 
 ## The Organization
 
-The current form of the Geo Web DAO is Aragon DAO on the Rinkeby network found here: [https://rinkeby.client.aragon.org/#/geoweb/]
-MembershipThe founding members of the Geo Web DAO are [Cody Hatfield](https://twitter.com/codynhat) and [Graven Prest](https://twitter.com/GravenPrest), co-founders of the Geo Web Project.
+The current form of the Geo Web DAO is Aragon DAO on the Rinkeby network found here: https://rinkeby.client.aragon.org/#/geoweb/
+
+## Membership
+
+The founding members of the Geo Web DAO are [Cody Hatfield](https://twitter.com/codynhat) and [Graven Prest](https://twitter.com/GravenPrest), co-founders of the Geo Web Project.
 
 The DAO is established as a Membership DAO with each member receiving a non-transferrable ERC-20 token that entitles the holder to one vote in all matters proposed within the DAO.
 
