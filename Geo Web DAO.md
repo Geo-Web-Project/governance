@@ -10,7 +10,7 @@ The Geo Web DAO is necessarily launched with concentration in control and permis
 
 ## The Organization
 
-The current form of the Geo Web DAO is Aragon DAO on the Rinkeby network found here: https://rinkeby.client.aragon.org/#/geoweb/
+The current form of the Geo Web DAO is Aragon DAO on the xDAI network found here: https://aragon.1hive.org/#/geoweb/
 
 ## Membership
 
